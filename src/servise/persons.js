@@ -26,3 +26,4 @@ const update = (id, changedPerson) => {
 };
 export default { getAll, create, remove, update };
 
+// Додати новий контакт (POST)
