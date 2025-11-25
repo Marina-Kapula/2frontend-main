@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const baseUrl = 'https://twobeckend-main.onrender.com';
+const baseUrl = 'https://twobeckend-main.onrender.com/api/persons';
 
 
 
